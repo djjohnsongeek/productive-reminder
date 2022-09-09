@@ -1,1 +1,1 @@
-# productive-reminder
+A productivity and dicipline reminder.
